@@ -6,8 +6,6 @@
 
 <img width="508" alt="white" src="https://github.com/user-attachments/assets/698f6524-7dca-4c6b-b50c-c5bff9f3b12f">
 
-
-<img width="521" alt="Screenshot 2024-10-18 at 2 23 31 PM" src="https://github.com/user-attachments/assets/803ef5c8-7156-46d6-876a-58bf07462392">
-
+<img width="522" alt="Screenshot 2024-10-18 at 2 23 31 PM" src="https://github.com/user-attachments/assets/6ac1c900-4bbc-4674-aba1-5466627bd695">
 
 <img width="521" alt="Screenshot 2024-10-18 at 11 17 13 PM" src="https://github.com/user-attachments/assets/e500c7f5-d74c-46e6-aa2b-d932e9dd2650">
